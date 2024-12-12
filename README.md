@@ -1,5 +1,4 @@
 
-Details
  // eazytronic.com
  #include <Servo.h> // servo library
 Servo s1;
